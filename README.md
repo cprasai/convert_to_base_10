@@ -13,6 +13,6 @@ make
 ./convert
 ```
 You will be prompted for the base and number input that will be converted to base 10.
-Enter these with a space between them and hit 'Enter'
+Enter these with a space between them and hit 'Enter.
 The output will be printed to the screen.
 
